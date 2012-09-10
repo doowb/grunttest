@@ -1,0 +1,11 @@
+{
+	"title": "Another title",
+	"demo": {
+		"class1": "alert",
+		"class2": "info"
+	},
+	"demo2": {
+		"class1": "foo",
+		"class2": "bar"
+	}
+}
